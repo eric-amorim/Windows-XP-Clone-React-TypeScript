@@ -2,6 +2,10 @@
 
 A nostalgic and interactive clone of the legendary **Windows XP** interface, built using modern web technologies. This project recreates the classic operating system experience, from the iconic boot screen to a functional desktop with windows, shortcuts, and sound effects.
 
+<img width="273.2" height="153.6" alt="image" src="https://raw.githubusercontent.com/eric-amorim/Windows-XP-Clone-React-TypeScript/refs/heads/main/screenshots/1.png" /> <img width="273.2" height="153.6" alt="image" src="https://raw.githubusercontent.com/eric-amorim/Windows-XP-Clone-React-TypeScript/refs/heads/main/screenshots/2.png" />
+
+<img width="273.2" height="153.6" alt="image" src="https://raw.githubusercontent.com/eric-amorim/Windows-XP-Clone-React-TypeScript/refs/heads/main/screenshots/3.png" /> <img width="273.2" height="153.6" alt="image" src="https://raw.githubusercontent.com/eric-amorim/Windows-XP-Clone-React-TypeScript/refs/heads/main/screenshots/4.png" />
+
 ## 🚀 Features
 
 - **Classic Boot Screen:** Identical loading animation built from scratch using CSS Keyframes.
