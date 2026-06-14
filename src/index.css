@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Tahoma:wght@400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  overflow: hidden;
+  font-family: 'Tahoma', sans-serif;
+  user-select: none;
+}
+
+::-webkit-scrollbar {
+  width: 16px;
+  background: #ece9d8;
+}
+::-webkit-scrollbar-thumb {
+  background: #8fa0c8;
+  border: 1px solid #ffffff;
+}
